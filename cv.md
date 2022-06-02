@@ -1,22 +1,23 @@
-#rsschool-cv
+# rsschool-cv
 
-#Dzmitry Aldoshyn
+# Dzmitry Aldoshyn
 
 *********
 
-##Contacts:
+## Contacts:
 * Email: daldoshin97@gmail.com
 * Phone: +375 29 651 33 26
 * Discord: dimaald23
 
 *********
 
-##GOAL
+## GOAL
+
 To get all necessary knowledge to switch title from Software Test Automation in JS to Software Engineer in my current workplace. Improve HTML + CSS skills and close some gaps in Javascript.
 
 *********
 
-##Skills
+## Skills
 * HTML + CSS - novice +
 * JS Core - intermediate +
 * React - novice
@@ -28,7 +29,7 @@ To get all necessary knowledge to switch title from Software Test Automation in 
 
 *********
 
-##Code Example
+## Code Example
 ```
 function pigIt(str){
   return str.split(' ').map(w => {
@@ -39,26 +40,24 @@ function pigIt(str){
 
 *********
 
-##Education
+## Education
 * BNTU - Automation of Technical Process and Factories (FITR)
 * EPAM - Software Test Automation Lab
 * Self Education:
     + [https://learn.javascript.ru/](https://learn.javascript.ru/)
     + [udemy](https://www.udemy.com/)
     + [html academy](https://htmlacademy.ru/)
-    + 
 *********
     
-##Experience
+## Experience
 * 0.5 years in Test Automation Lab 
 * 3 years as Software Test Automation in JS in EPAM
 
 *********
 
-##Languages
+## Languages
 * Belarusian - Native
 * Russian - Native
 * English
     + Speaking: B1+
     + Writing: B1
-*********
