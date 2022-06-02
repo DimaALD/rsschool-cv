@@ -30,3 +30,21 @@ function pigIt(str){
 }
 ```
 *****
+##Education
+* BNTU - Automation of Technical Process and Factories (FITR)
+* EPAM - Software Test Automation Lab
+* Self Education:
+    + [https://learn.javascript.ru/](https://learn.javascript.ru/)
+    + [udemy](https://www.udemy.com/)
+    + [html academy](https://htmlacademy.ru/)
+*****
+##Experience
+* 0.5 years in Test Automation Lab 
+* 3 years as Software Test Automation in JS in EPAM
+*****
+##Languages
+* Belarusian - Native
+* Russian - Native
+* English
+    + Speaking: B1+
+    + Writing: B1
