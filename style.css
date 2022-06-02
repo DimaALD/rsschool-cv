@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    font-size: 15px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.header__title {
+    font-size: 2rem;
+    color: red;
+}
+
+.title {
+    font-size: 1.5rem;
+}
